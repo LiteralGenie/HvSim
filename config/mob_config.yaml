@@ -1,0 +1,4 @@
+test:
+  init:
+    hp: 100
+    attack: 10
